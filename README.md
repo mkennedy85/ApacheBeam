@@ -16,7 +16,7 @@ It walks through key Beam concepts and transforms, including:
 
 Watch the full demonstration below:
 
-<video src="assets/beam_demo.mp4" width="720" controls></video>
+[![Watch the demo](https://img.shields.io/badge/▶️%20Play%20Demo%20Video-blue)](assets/beam_demo.mp4)
 
 ---
 
